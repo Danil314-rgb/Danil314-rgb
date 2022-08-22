@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
 3) [deeplay](https://github.com/DanilBodrov/deeplay) Проект по поиску самого короткого пути от одно точки до другой. Консольное приложение. Для поиска пути использовался алгоритм Дейкстры. Технологии: Java Core, ООП, JUnit, Maven, Git.
 
-4) 
-
+4) [car_accident](https://github.com/Danil314-rgb/car_accident) Проект "Дорожные аварии" для оформления дорожных происшествий, с разными ролями(Участники происшествий и Администратором). Технологии: Java, Spring, PosgreSQL, Maven, Git.
 
